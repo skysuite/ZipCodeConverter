@@ -1,0 +1,13 @@
+C:\Users\terrasky1\Documents\Visual Studio 2010\Projects\ZipCodeConverter\ZipCodeConverter\bin\Debug\ZipCodeConverter.exe
+C:\Users\terrasky1\Documents\Visual Studio 2010\Projects\ZipCodeConverter\ZipCodeConverter\bin\Debug\ZipCodeConverter.pdb
+C:\Users\terrasky1\Documents\Visual Studio 2010\Projects\ZipCodeConverter\ZipCodeConverter\bin\Debug\Ionic.Zip.dll
+C:\Users\terrasky1\Documents\Visual Studio 2010\Projects\ZipCodeConverter\ZipCodeConverter\bin\Debug\Ionic.Zip.xml
+C:\Users\terrasky1\Documents\Visual Studio 2010\Projects\ZipCodeConverter\ZipCodeConverter\obj\x86\Debug\MainWindow.baml
+C:\Users\terrasky1\Documents\Visual Studio 2010\Projects\ZipCodeConverter\ZipCodeConverter\obj\x86\Debug\MainWindow.g.cs
+C:\Users\terrasky1\Documents\Visual Studio 2010\Projects\ZipCodeConverter\ZipCodeConverter\obj\x86\Debug\App.g.cs
+C:\Users\terrasky1\Documents\Visual Studio 2010\Projects\ZipCodeConverter\ZipCodeConverter\obj\x86\Debug\ZipCodeConverter_MarkupCompile.cache
+C:\Users\terrasky1\Documents\Visual Studio 2010\Projects\ZipCodeConverter\ZipCodeConverter\obj\x86\Debug\ZipCodeConverter.g.resources
+C:\Users\terrasky1\Documents\Visual Studio 2010\Projects\ZipCodeConverter\ZipCodeConverter\obj\x86\Debug\ZipCodeConverter.Properties.Resources.resources
+C:\Users\terrasky1\Documents\Visual Studio 2010\Projects\ZipCodeConverter\ZipCodeConverter\obj\x86\Debug\ZipCodeConverter.csproj.GenerateResource.Cache
+C:\Users\terrasky1\Documents\Visual Studio 2010\Projects\ZipCodeConverter\ZipCodeConverter\obj\x86\Debug\ZipCodeConverter.exe
+C:\Users\terrasky1\Documents\Visual Studio 2010\Projects\ZipCodeConverter\ZipCodeConverter\obj\x86\Debug\ZipCodeConverter.pdb
